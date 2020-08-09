@@ -24,6 +24,9 @@ A passive infrared sensor **(PIR sensor)** is an electronic sensor that measures
 
 ![PIR Sensor](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-br9udpagzwMA-06MHwYlBuneEHvzQJAPiw&usqp=CAU)
 
+# # OBJECTIVE :- 
+# Our Goal is to predict that the person is present near to the sensor or not using our machine learning knowledge 
+
 
 
 
